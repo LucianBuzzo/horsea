@@ -1,6 +1,6 @@
 {
   "name": "horsea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny and opinionated unit testing module",
   "main": "horsea.js",
   "scripts": {
