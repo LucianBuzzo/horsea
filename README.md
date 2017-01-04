@@ -55,7 +55,7 @@ If expression is truthy, the word "PASS" is printed, else the word "FAIL" is
 printed. The message provided is then displayed immediately afterwards.
 
 #### Arguments
-*{Mixed}* expression - An expression to evaluate for "truthiness".
+*{Mixed}* expression - An expression to evaluate for "truthiness".  
 *{String}* message - A message to display.
 
 ### end
