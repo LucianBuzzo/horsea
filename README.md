@@ -2,6 +2,12 @@
 
 A tiny module for running simple unit tests.
 
+## Installation
+
+```
+npm install --save horsea
+```
+
 ## Example
 
 ``` js
