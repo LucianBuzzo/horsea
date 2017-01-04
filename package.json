@@ -1,0 +1,24 @@
+{
+  "name": "horsea",
+  "version": "1.0.0",
+  "description": "A tiny and opinionated unit testing module",
+  "main": "horsea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianBuzzo/horsea.git"
+  },
+  "keywords": [
+    "assert",
+    "test",
+    "unit"
+  ],
+  "author": "Lucian Buzzo <lucian.buzzo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucianBuzzo/horsea/issues"
+  },
+  "homepage": "https://github.com/LucianBuzzo/horsea#readme"
+}
