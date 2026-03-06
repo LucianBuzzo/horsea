@@ -62,6 +62,10 @@ Horsea.prototype.end = function() {
   console.log(`\r\n${this.passed} tests passed`);
   console.log(`${this.failed} tests failed`);
   console.log();
+
+  if (this.failed > 0) {
+    process.exitCode = 1;
+  }
 };
 
 module.exports = new Horsea();
