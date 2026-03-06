@@ -62,3 +62,6 @@ printed. The message provided is then displayed immediately afterwards.
 Signals the end of the test and prints the total number of failing and passed 
 tests. **Takes no arguments**.
 
+Also sets a non-zero process exit code when one or more assertions fail, so it
+works cleanly in CI and npm scripts.
+
